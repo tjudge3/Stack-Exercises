@@ -1,4 +1,7 @@
-//2022-10-12 - Lab7 - Stack Exercises - tjudge
+//Lab7 - Stack Exercises - tjudge
+//Assignment was to reverse a string (specifically sentences with a period)
+//And reverse a number
+//Mary had a little lamb. Its fleece was white as snow. - Were the given test sentences
 import java.util.*;
 public class Reverse
 {
